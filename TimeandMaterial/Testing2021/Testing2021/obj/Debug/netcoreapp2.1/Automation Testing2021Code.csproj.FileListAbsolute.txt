@@ -1,0 +1,21 @@
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Automation Testing2021Code.deps.json
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Automation Testing2021Code.runtimeconfig.json
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Automation Testing2021Code.runtimeconfig.dev.json
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Automation Testing2021Code.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Automation Testing2021Code.pdb
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Automation Testing2021Code.csproj.CoreCompileInputs.cache
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Automation Testing2021Code.AssemblyInfoInputs.cache
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Automation Testing2021Code.AssemblyInfo.cs
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Automation Testing2021Code.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Automation Testing2021Code.pdb
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\nunit.engine.core.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\testcentric.engine.metadata.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Automation Testing2021Code.csproj.AssemblyReference.cache
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Automation Testing2021Code.genruntimeconfig.cache

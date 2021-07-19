@@ -1,0 +1,11 @@
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Testing2021.deps.json
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Testing2021.runtimeconfig.json
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Testing2021.runtimeconfig.dev.json
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Testing2021.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Testing2021.csprojAssemblyReference.cache
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Testing2021.csproj.CoreCompileInputs.cache
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Testing2021.AssemblyInfoInputs.cache
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Testing2021.AssemblyInfo.cs
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\bin\Debug\netcoreapp2.1\Testing2021.pdb
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Testing2021.dll
+C:\Supriya\TimeandMaterial\Testing2021\Testing2021\obj\Debug\netcoreapp2.1\Testing2021.pdb
